@@ -1,0 +1,5 @@
+grep Привет test.txt
+grep -i тест test.txt
+grep -n "строка" test.txt
+grep -c "Warning" test.txt
+grep -i "test" test.txt
