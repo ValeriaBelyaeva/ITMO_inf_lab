@@ -23,6 +23,11 @@ exit 0
 ### Функция 2: 
 Работа с Git Flow 
 * Убедитесь, что Git Flow установлен (под Windows может потребоваться отдельная установка или использование git flow через Git Bash).
+```
+git clone --depth=1 https://github.com/petervanderdoes/gitflow-avh.git
+cd gitflow-avh
+make install
+```
 * В корне репозитория выполните инициализацию Git Flow:  
 git flow init
 * Начните фичу для новой функциональности:
