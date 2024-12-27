@@ -38,6 +38,6 @@ git flow release finish v1.0.0
 git flow hotfix start hotfix-1.0.1
 После исправлений закоммитьте и завершите hotfix:  
 git flow hotfix finish hotfix-1.0.1
-* тправьте итоговые изменения в удаленный репозиторий:  
+* Отправьте итоговые изменения в удаленный репозиторий:  
 git push origin develop
 git push origin main
